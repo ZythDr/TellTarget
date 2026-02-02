@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: TellTarget
+## Notes: /tt whispers your current target
+## Author: ZythDr
+## Version: 1.0
+
+TellTarget.lua
